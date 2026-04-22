@@ -1,4 +1,5 @@
 # React + TypeScript + Vite
+<<<<<<< HEAD
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
@@ -71,3 +72,38 @@ export default defineConfig([
   },
 ])
 ```
+=======
+# React Quiz Project
+
+## 📌 Description
+This is a React project created using Vite as part of a web development quiz.
+
+## 🚀 Setup Instructions
+
+### 1. Install dependencies
+npm install
+
+### 2. Run the project
+npm run dev
+
+The project runs on:
+http://localhost:5173/
+## ⚙️ Tools Used
+- React
+- Vite
+- JavaScript
+- Git & GitHub
+
+## 🔄 Git Workflow Used
+
+- git init
+- git add .
+- git commit -m "Initial commit"
+- git remote add origin <repo-link>
+- git push -u origin main
+
+## 📁 Project Structure
+- src/ → React components
+- public/ → static files
+- index.html → main HTML file
+>>>>>>> f993225 (Initial clean project)
